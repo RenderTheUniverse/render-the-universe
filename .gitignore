@@ -1,0 +1,14 @@
+   # rendered output and caches (regenerate with the scripts)
+   *.mp4
+   *.wav
+   *.jpg
+   *.png
+   *.npz
+   *.npy
+   runs/
+   __pycache__/
+   .venv/
+   .DS_Store
+   # fonts are downloaded separately (see README)
+   fonts/*
+   !fonts/README.md
